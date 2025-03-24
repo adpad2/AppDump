@@ -32,7 +32,7 @@ public class AppLogger {
         Flush();
     }
 
-    public void Log(int timestamp, string eventType, List<string> args) {
+    public void Log(long timestamp, string eventType, List<string> args) {
         // Ensure thread safety
         lock (lockObj) {
             // Write the log entry to the file
