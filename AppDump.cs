@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace AppDump;
+﻿namespace AppDump;
 
 public class AppLogger {
     private StreamWriter writer;

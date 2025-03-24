@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppDump")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df069e68e58c2e458aaae917893505b72596241b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65e2c01c6ca0feeab8c6cc4bafcdd50180223c53")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppDump")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppDump")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
